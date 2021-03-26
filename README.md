@@ -1,1 +1,1 @@
-# This respository contains Stastical Analysis in python
+#  Analysis in python
