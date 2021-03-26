@@ -1,1 +1,1 @@
-# 3.Statistics-
+# This respository contains Stastical Analysis in python
